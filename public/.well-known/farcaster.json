@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "SmartNet Deploy Tool",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9f3b2945-4a32-4cea-8569-ee42e0f4fdd2-DTffpuvxjZopnUHp4X0IJ3jT5EtGBB",
+    "homeUrl": "https://late-rhythm-645.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9f3b2945-4a32-4cea-8569-ee42e0f4fdd2-DTffpuvxjZopnUHp4X0IJ3jT5EtGBB",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "SmartNet Deploy Tool",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9f3b2945-4a32-4cea-8569-ee42e0f4fdd2-DTffpuvxjZopnUHp4X0IJ3jT5EtGBB"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzNTMzNCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDQ0ODRmQkM0Y2I5NzI0NjYyMDc1YjNhNzJkMjM2ODc3RDc2ZTc1YjIifQ",
+    "payload": "eyJkb21haW4iOiJsYXRlLXJoeXRobS02NDUuYXBwLm9oYXJhLmFpIn0",
+    "signature": "OQlWhHGH1rOBfP1AYg2u81OlqbCiiOeS9wxZnD858Jl3xhh499kFLwwDJv/RMq2TEeCM22da39tm5IK2BF3jUBw="
+  }
+}
